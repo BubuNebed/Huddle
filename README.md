@@ -1,2 +1,2 @@
 # Huddle
-responsiveness and media queries
+responsiveness and media queries.
